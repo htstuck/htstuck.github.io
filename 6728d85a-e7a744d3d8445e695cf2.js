@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{iNdW:function(t,n,a){"use strict";a.d(n,"a",(function(){return e}));var i=a("Lnxd"),e=function(t){return Object(i.a)({tag:"svg",attr:{viewBox:"0 0 24 24"},child:[{tag:"path",attr:{fillRule:"evenodd",d:"M23,20 L23,6 L12,15 L1,6 L1,20 L23,20 Z M12,12 L22,4 L2,4 L12,12 Z"}}]})(t)};e.displayName="GrMail"}}]);
+//# sourceMappingURL=6728d85a-e7a744d3d8445e695cf2.js.map
